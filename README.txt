@@ -1,2 +1,1 @@
-Parcticas de clase
-LAB  031
+Practica 01 Hola mundo 
